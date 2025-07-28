@@ -13,8 +13,8 @@ A responsive and interactive To-Do List application built with React. It allows 
 
 ## Screenshot
 
-![Example Task](./task.jpeg)
-![Completed Task](./complete.jpeg)
+![Example Task](./tasks.jpeg)
+![Completed Task](./completed.jpeg)
 ![Active Task](./active.jpeg)
 
 ## Built With
@@ -24,7 +24,7 @@ A responsive and interactive To-Do List application built with React. It allows 
 - JavaScript
 - LocalStorage API
 
-## 📦 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
@@ -33,7 +33,7 @@ cd todo-app
 npm install
 ```
 
-🌿 Folder Structure (Vite)
+Folder Structure (Vite)
 
 todo-app/
 ├── public/
