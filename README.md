@@ -1,5 +1,7 @@
 # React To-Do App
 
+**Live Demo:** [Task by Task](https://taskbytask.netlify.app/)  
+
 A responsive and interactive To-Do List application built with React. It allows users to add, complete, delete, and filter tasks — with local storage support so tasks persist after refreshing.
 
 ## Features
